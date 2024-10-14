@@ -94,10 +94,9 @@
 #define _CRT_SECURE_NO_WARNINGS
 #endif
 
-#if defined(AP_PLATFORM_WINDOWS)
+// Apostle specific includes
 #include "APpch.h"
 #include <glad/glad.h>
-#endif
 
 
 #include "imgui.h"
