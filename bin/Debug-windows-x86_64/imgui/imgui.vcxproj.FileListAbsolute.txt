@@ -1,0 +1,1 @@
+E:\dev\Personal\C++\Apostle\Apostle\vendor\imgui\bin\Debug-windows-x86_64\imgui\imgui.lib
